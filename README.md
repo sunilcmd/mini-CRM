@@ -1,9 +1,9 @@
 <h3>Mini CRM Project</h3>
-<p>Basic CRM application on laravel latest version.</p>
+<p>Laravel v8.53.1 (PHP v8.0.6</p>
 
-<h2>Application Screenshoots<h2>
+<h4>Application Screenshoots<h4>
     
-    ![emplyees_home](https://user-images.githubusercontent.com/56351442/129171464-c3be8197-0df7-46cd-a920-00a3e5222b61.png)
+![emplyees_home](https://user-images.githubusercontent.com/56351442/129171464-c3be8197-0df7-46cd-a920-00a3e5222b61.png)
 ![home](https://user-images.githubusercontent.com/56351442/129171470-68757121-afcd-4c6e-af7d-3b6ee11c2aa5.png)
 ![login](https://user-images.githubusercontent.com/56351442/129171474-07ed0bf2-9de1-4ccc-b099-0fb2c0d07f9c.png)
 ![add_new_company](https://user-images.githubusercontent.com/56351442/129171477-f122e168-b352-4b07-868b-d6219f0c2672.png)
