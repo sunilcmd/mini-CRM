@@ -1,5 +1,5 @@
 <h3>Mini CRM Project</h3>
-<p>Laravel v8.53.1 (PHP v8.0.6</p>
+<p>Laravel v8.53.1</p>
 
 <h4>Application Screenshoots<h4>
     
